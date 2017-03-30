@@ -1,5 +1,6 @@
 import re
- 
+
+
 emoticons_str = r"""
     (?:
         [:=;] # Eyes
